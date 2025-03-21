@@ -1,0 +1,12 @@
+button{
+    padding: 0%;
+    height: auto;
+    width: auto;
+    background-color: cadetblue;
+    cursor: pointer;
+}
+#counter-container{
+    height: 100%;;
+    width: 100%;
+    background-color: antiquewhite;
+}
